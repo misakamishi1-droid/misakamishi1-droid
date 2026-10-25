@@ -5,7 +5,7 @@
   🔭 I’m currently working on <strong>Exploring and practicing web development</strong><br>
   🌱 I’m currently learning <strong>PHP and MySQL databases 💻</strong><br>
   💬 Ask me about <strong>HTML, CSS, Bootstrap</strong><br>
-  📫 Reach me out: <strong>misakamishi1@gmail.com</strong><br>
+  📫 Reach me out: <a href="mailto:misakamishi1@gmail.com"><strong>misakamishi1@gmail.com</strong></a><br>
   ⚡ Fun fact: <strong>I enjoy sketching and exploring creative stories 🎨</strong>
 </p>
 
